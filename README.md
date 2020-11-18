@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm [kaan-air](https://github.com/kaan-air)
 
-Full Stack Developer 💻 at SwipedOn
+I'm a Full Stack Developer 💻  [@SwipedOn](https://www.swipedon.com/)
 
 <!--
 **kaan-air/kaan-air** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
