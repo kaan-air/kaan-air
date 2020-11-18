@@ -2,6 +2,38 @@
 
 I'm a Full Stack Developer 💻  [@SwipedOn](https://www.swipedon.com/)
 
+I also like planes :airplane:
+
+```
+    ./\.
+  ./    `\.
+  \.       `\.
+    `\.       `\.
+       `\.       `\.
+          `\.       `\.
+          ./           `\.
+        ./            ____`\.
+      ./                  <  `\.
+      \-------\            `>   `\.
+        `\=====>        ___<       `\.
+       ./-----/             __________`\.
+       \.------\       _____   ___(_)(_\.`\
+         `\=====>          <            ./'
+        ./-----/            `>        ./
+        \.               ___<       ./
+          `\.                     ./
+             `\.                ./
+                `\.           ./
+                ./          ./
+              ./          ./
+            ./          ./
+          ./          ./
+        ./          ./
+        \.        ./
+          `\.   ./
+             `\/
+```
+
 <!--
 **kaan-air/kaan-air** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
