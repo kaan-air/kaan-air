@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Full Stack Developer 💻 at SwipedOn
+
 <!--
 **kaan-air/kaan-air** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
