@@ -1,6 +1,7 @@
 ### Hi there 👋, I'm [kaan-air](https://github.com/kaan-air)
 
-I'm a Full Stack Developer 💻  [@SwipedOn](https://www.swipedon.com/) and I like planes :airplane:
+Full Stack Developer 💻  [@SwipedOn](https://www.swipedon.com/)
+Aviation enthusiast :airplane:
 
 ```
     ./\.
