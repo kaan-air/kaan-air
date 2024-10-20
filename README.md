@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm [kaan-air](https://github.com/kaan-air)
 
-Full Stack Developer 💻  [@SwipedOn](https://www.swipedon.com/)
+Full Stack Developer 💻  [@SignInSolutions](https://signinsolutions.com/) <img src="https://avatars.githubusercontent.com/u/164400703?s=64&v=4" height="10" width="auto">
 
 ```
     ./\.
